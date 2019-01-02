@@ -1,0 +1,24 @@
+{
+  "name": "puppeteer",
+  "version": "1.0.0",
+  "description": "Puppeteer Image Downloader",
+  "main": "app.js",
+  "dependencies": {
+    "deasync": "^0.1.13",
+    "puppeteer": "^1.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/normankong/puppeteer-image-downloader.git"
+  },
+  "author": "Norman K K Kong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/normankong/puppeteer-image-downloader/issues"
+  },
+  "homepage": "https://github.com/normankong/puppeteer-image-downloader#readme"
+}
