@@ -1,4 +1,10 @@
 # puppeteer-image-downloader
 Puppeteer Image Downloader
 
-For download image from Google Image / Baidu for Machine Learning training set collection purpose
+A node console app running on google puppeteer headless chrome framework to fetch image from search engines 
+
+- Google Image
+- Baidu Image
+
+for machine learning training set collection.
+
